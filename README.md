@@ -1,7 +1,7 @@
 # Xposed-GodMode
 
 ## Oh 我的上帝 这是什么鬼东西?
-
+c
 借助于```Xposed```你可以在任何app中屏蔽你不喜欢的东西
 
 目前功能类似于PC端的AdBlock
